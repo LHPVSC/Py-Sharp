@@ -1,0 +1,18 @@
+Hello! This is the Sharp Tutorial!
+
+In Sharp, To even code in it you must append the directory you installed Sharp in using os.
+
+Then when you have done that, Import the following things:
+
+•Sharp
+•System
+
+When you've done, your code should look like this:
+
+=============================
+import os                   |
+os.path.append("Your/Path/) |
+import Sharp                |
+import System               |
+=============================
+
