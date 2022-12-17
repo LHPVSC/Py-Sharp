@@ -13,3 +13,6 @@ You can always help me, because there is a LOT you could help me with (I won't p
 
 # Contacts:
 Discord: Dot.#8778
+
+# History
+Py-Sharp was previously called Py-C, But changed to Py-Sharp Because I really Liked the Sound Of C#, But with the C being Py.
