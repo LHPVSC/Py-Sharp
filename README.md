@@ -13,3 +13,6 @@ You can always help me, because there is a LOT you could help me with (I won't p
 
 # Contacts:
 Discord: Dot.#8778
+
+# History
+Py-Sharp was about to be called Py-C Until I thought Of The Icon, Then changed it to Py-#
