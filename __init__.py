@@ -1,4 +1,4 @@
-import Sharp
+import pysh
 import System
 
 System.add(3,4)
